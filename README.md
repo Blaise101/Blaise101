@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
 - 🔭 Portfolio: https://blaise101portfolio.vercel.app/
 - ⚡Resume: https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf
+- 🌱Old Account: https://github.com/Blaise202
 
 ### 🛠️ Languages and Tools
 
