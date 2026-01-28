@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on Laravel, NodeJs, VueJs projects
 - 🚀 I’m interested in gaining proficiency in Software Development and Mobile Apps
 - 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
-- 🔭 Portfolio: https://blaise202.github.io/portfolio/
+- 🔭 Portfolio: https://blaise101portfolio.vercel.app/
 - ⚡Resume: https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf
 
 ### 🛠️ Languages and Tools
@@ -52,10 +52,10 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
  <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise202&theme=dark)](https://git.io/streak-stats)-->
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blaise202&show_icons=true&theme=dark)
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blaise101&show_icons=true&theme=dark)
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise202&layout=compact&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)
 
 <!--
   ### 🥋 Codewars Stats
