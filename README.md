@@ -54,13 +54,12 @@ Here are some ideas to get you started:
 ### 📊 My GitHub Stats
  [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats)
  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" alt="General stats badge"/>
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Blaise101&show_icons=true&theme=dark) -->
+ <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox" alt="Profile details badge"/>
 
 ### 💻 Most Used Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)-->
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blaise101&theme=gruvbox" alt="Top languages by repo badge"/>
 
 ### 🥋 Codewars Stats
-![Codewars](https://www.codewars.com/users/Blaise202/badges/large)
--->
+<!-- ![Codewars](https://www.codewars.com/users/Blaise202/badges/large) -->
 
