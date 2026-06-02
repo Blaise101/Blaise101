@@ -65,10 +65,13 @@ Here are some ideas to get you started:
     alt="Profile details badge"
   />
 </p>
-### 💻 Most Used Languages
+
+### 💻 Most Used Languages (Public Repos)
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blaise101&theme=gruvbox" alt="Top languages by repo badge"/>
 
+<!--
 ### 🥋 Codewars Stats
-<!-- ![Codewars](https://www.codewars.com/users/Blaise202/badges/large) -->
+![Codewars](https://www.codewars.com/users/Blaise202/badges/large) 
+-->
 
