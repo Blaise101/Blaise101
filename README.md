@@ -144,8 +144,8 @@ I'm actively looking to collaborate on:
   <img src="https://github-profile-trophy.vercel.app/?username=Blaise101&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
--->
 ---
+-->
 
 ## 📚 Currently Exploring
 
