@@ -53,9 +53,18 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
  [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats)
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" alt="General stats badge"/>
- <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox" alt="Profile details badge"/>
-
+<p align="left">
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox"
+    width="300"
+    alt="General stats badge"
+  />
+  <img
+    src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox"
+    width="500"
+    alt="Profile details badge"
+  />
+</p>
 ### 💻 Most Used Languages
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)-->
 <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blaise101&theme=gruvbox" alt="Top languages by repo badge"/>
