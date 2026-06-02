@@ -51,11 +51,15 @@ Here are some ideas to get you started:
 
 
 
-### 📊 My GitHub Stats
+### ⚡ Commits Streak
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=gruvbox" width="600" alt="Blaise101 streak badge"/> -->
 <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="Blaise101 streak badge"/>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blaise101&bg_color=293036&color=ffffff&line=b19c16&point=eca713&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats) -->
+
+### 📊 My GitHub Stats
 
 <p align="left">
   <img
