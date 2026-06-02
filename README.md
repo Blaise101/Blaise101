@@ -56,12 +56,12 @@ Here are some ideas to get you started:
 <p align="left">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox"
-    width="300"
+    width="255"
     alt="General stats badge"
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox"
-    width="500"
+    width="545"
     alt="Profile details badge"
   />
 </p>
