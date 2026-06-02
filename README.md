@@ -54,8 +54,8 @@ Here are some ideas to get you started:
 ### 📊 My GitHub Stats
 
 <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=gruvbox" width="600" alt="Blaise101 streak badge"/> -->
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="Blaise101 streak badge"/>
+<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats) -->
 
 <p align="left">
   <img
