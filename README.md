@@ -91,6 +91,10 @@ I'm actively looking to collaborate on:
 
 ---
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg" />
+</p>
+
 <!-- ## 🌟 Featured Projects
 
 > Replace these with your actual projects.
