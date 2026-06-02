@@ -53,13 +53,14 @@ Here are some ideas to get you started:
 
 ### 📊 My GitHub Stats
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=gruvbox" width="600" alt="Blaise101 streak badge"/>
+<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=gruvbox" width="600" alt="Blaise101 streak badge"/> -->
 
-<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats) -->
+[![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats)
+
 <p align="left">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox"
-    width="255"
+    width="265"
     alt="General stats badge"
   />
   <img
