@@ -1,67 +1,124 @@
-## Hi there 👋 I'm Blaise Izerimana
+# Hi 👋, I'm Blaise Izerimana
 
-<!--
-**Blaise202/Blaise202** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Full-Stack Developer • Laravel Enthusiast • Mobile App Builder
+</h3>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-- 👯 I’m looking to collaborate on Laravel, NodeJs, VueJs projects
-- 🚀 I’m interested in gaining proficiency in Software Development and Mobile Apps
-- 📫 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share
-- 🔭 Portfolio: https://blaise101portfolio.vercel.app/
-- ⚡Resume: https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf
-- 🌱Old Account: https://github.com/Blaise202
-
-### 🛠️ Languages and Tools
-
-<p align="left" style="white-space: nowrap;">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-original.svg" alt="laravel" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="nodejs" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express" width="40" style="display:inline-block;"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" style="display:inline-block;"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flutter/flutter-original.svg" alt="Flutter" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-original.svg" alt="TailwindCSS" width="40" style="display:inline-block;"/>
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" style="display:inline-block;"/> -->
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="40" style="display:inline-block;"/> -->
-  <!-- <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg" alt="R" width="40" style="display:inline-block;"/> -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MongoDB" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postman/postman-original.svg" alt="postman" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/trello/trello-original.svg" alt="trello" width="40" style="display:inline-block;"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/slack/slack-original.svg" alt="slack" width="40" style="display:inline-block;"/>
+<p align="center">
+  Building scalable web applications, APIs, and mobile experiences.
 </p>
 
+<p align="center">
+  <a href="https://blaise101portfolio.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge" />
+  </a>
+  <a href="https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share">
+    <img src="https://img.shields.io/badge/Upwork-Hire%20Me-14A800?style=for-the-badge&logo=upwork&logoColor=white" />
+  </a>
+  <a href="https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf">
+    <img src="https://img.shields.io/badge/Resume-PDF-red?style=for-the-badge" />
+  </a>
+  <a href="https://github.com/Blaise202">
+    <img src="https://img.shields.io/badge/Old%20Account-GitHub-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
 
+---
 
+## 🚀 About Me
 
+```yaml
+Name: Blaise Izerimana
+Role: Full-Stack Developer
+Focus:
+  - Laravel Development
+  - REST APIs
+  - Node.js Applications
+  - React Interfaces
+  - Mobile Apps with Flutter
 
+Currently Learning:
+  - Software Architecture
+  - Scalable Backend Systems
+  - Mobile Development Best Practices
 
-### ⚡ Commits Streak
+Open To:
+  - Freelance Opportunities
+  - Open Source Contributions
+  - Remote Collaborations
+```
 
-<!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=gruvbox" width="600" alt="Blaise101 streak badge"/> -->
-<img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="Blaise101 streak badge"/>
+---
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Blaise101&bg_color=293036&color=ffffff&line=b19c16&point=eca713&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-<!-- [![GitHub Streak](https://streak-stats.demolab.com?user=Blaise101&theme=dark)](https://git.io/streak-stats) -->
+## 🤝 Let's Collaborate
 
-### 📊 My GitHub Stats
+I'm actively looking to collaborate on:
 
-<p align="left">
+* Laravel Projects
+* Node.js Applications
+* ReactJs & TypeScript Dashboards
+* Flutter Mobile Apps
+* API Development
+* Open Source Projects
+
+---
+
+## 🛠 Tech Stack
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,python,go" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,react,ts,vue,html,css,bootstrap,tailwind" />
+</p>
+
+### Mobile
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter" />
+</p>
+
+### Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,trello,slack,colab" />
+</p>
+
+---
+
+<!-- ## 🌟 Featured Projects
+
+> Replace these with your actual projects.
+
+| Project       | Description               | Stack            |
+| ------------- | ------------------------- | ---------------- |
+| Project One   | Short project description | Laravel, Vue     |
+| Project Two   | Short project description | Flutter          |
+| Project Three | Short project description | Node.js, MongoDB |
+
+--- -->
+
+## 📈 GitHub Activity
+
+<p align="center">
+  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=tokyonight&hide_border=true" /> -->
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="Blaise101 streak badge"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaise101&theme=tokyo-night&hide_border=true&area=true" />
+</p>
+
+---
+
+## 📊 GitHub Statistics
+
+<p align="center">
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox"
     width="265"
@@ -74,12 +131,51 @@ Here are some ideas to get you started:
   />
 </p>
 
-### 💻 Most Used Languages (Public Repos)
-<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&layout=compact&theme=dark)-->
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Blaise101&theme=gruvbox" alt="Top languages by repo badge"/>
-
+---
 <!--
-### 🥋 Codewars Stats
-![Codewars](https://www.codewars.com/users/Blaise202/badges/large) 
--->
+## 🏆 GitHub Trophies
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Blaise101&theme=gruvbox&row=1&column=6" alt="Blaise101 trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=Blaise101&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+-->
+---
+
+## 📚 Currently Exploring
+
+* Clean Architecture
+* Design Patterns
+* Microservices
+* Flutter State Management
+* DevOps Fundamentals
+
+---
+
+## 💡 Fun Fact
+
+```javascript
+while(alive){
+   learn();
+   build();
+   improve();
+   repeat();
+}
+```
+
+---
+
+## 📫 Connect With Me
+
+<p align="left">
+  🌐 Portfolio: https://blaise101portfolio.vercel.app/ <br>
+  💼 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share <br>
+  📄 Resume: https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf
+</p>
+
+---
+
+<p align="center">
+  <i>"Turning ideas into scalable digital solutions."</i>
+</p>
