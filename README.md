@@ -1,7 +1,7 @@
 # Hi 👋, I'm Blaise Izerimana
 
 <h3 align="center">
-Full-Stack Developer • Laravel Enthusiast • Mobile App Builder
+Full-Stack Developer • Laravel & React Enthusiast • Mobile App Builder
 </h3>
 
 <p align="center">
