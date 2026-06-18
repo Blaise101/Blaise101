@@ -86,7 +86,7 @@ I'm actively looking to collaborate on:
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,trello,slack,colab" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,github,trello,slack,colab" />
 </p>
 
 ---
