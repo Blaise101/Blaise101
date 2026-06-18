@@ -68,7 +68,7 @@ I'm actively looking to collaborate on:
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,express,java,python,go" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,express,java,go" />
 </p>
 
 ### Frontend
