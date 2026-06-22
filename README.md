@@ -130,7 +130,7 @@ I'm actively looking to collaborate on:
      <!-- src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" -->
   <img
      src="https://github-readme-stats.vercel.app/api?username=Blaise101&theme=gruvbox&show_icons=true&hide_border=true"
-    width="375"
+    width="285"
     alt="General stats badge"
   />
   <img
