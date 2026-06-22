@@ -127,9 +127,10 @@ I'm actively looking to collaborate on:
 ## 📊 GitHub Statistics
 
 <p align="center">
+     <!-- src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" -->
   <img
-     src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox"
-    width="265"
+     src="https://github-readme-stats.vercel.app/api?username=Blaise101&theme=gruvbox&show_icons=true&hide_border=true"
+    width="375"
     alt="General stats badge"
   />
   <img
