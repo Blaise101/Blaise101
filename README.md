@@ -21,6 +21,7 @@ Full-Stack Developer • Laravel & React Enthusiast • Mobile App Builder
   <a href="https://github.com/Blaise202">
     <img src="https://img.shields.io/badge/Old%20Account-GitHub-black?style=for-the-badge&logo=github" />
   </a>
+  <img src="https://komarev.com/ghpvc/?username=Blaise101&color=53b7e8" alt="Profile views" width="130" />
 </p>
 
 ---
