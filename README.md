@@ -135,7 +135,7 @@ I'm actively looking to collaborate on:
   />
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox"
-    width="545"
+    width="525"
     alt="Profile details badge"
   />
 </p>
