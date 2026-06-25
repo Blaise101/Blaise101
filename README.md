@@ -94,7 +94,7 @@ I'm actively looking to collaborate on:
 
 ### 🐍 My Contributions Snake
 
-[![:github-contribution-grid-snake](https://raw.githubusercontent.com/<Blaise101>/<Blaise101>/output/github-contribution-grid-snake.svg)](https://github.com/<Blaise101>/<Blaise101>/blob/output/github-contribution-grid-snake.svg)
+[![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg)
 
 
 
