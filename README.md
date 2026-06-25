@@ -92,11 +92,9 @@ I'm actively looking to collaborate on:
 
 ---
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com">
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com">
-  <img alt="GitHub Contribution Snake Animation" src="https://githubusercontent.com">
-</picture>
+### 🐍 My Contributions Snake
+
+[![:github-contribution-grid-snake](https://raw.githubusercontent.com/<Blaise101>/<Blaise101>/output/github-contribution-grid-snake.svg)](https://github.com/<Blaise101>/<Blaise101>/blob/output/github-contribution-grid-snake.svg)
 
 
 
