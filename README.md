@@ -181,7 +181,7 @@ while(alive){
 <p align="left">
   🌐 Portfolio: https://blaise101portfolio.vercel.app/ <br>
   💼 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share <br>
-  📄 Resume: [https://blaise202.github.io/portfolio/Blaise_Izerimana_Resume.pdf](https://blaise101portfolio.vercel.app/cv)
+  📄 Resume: https://blaise101portfolio.vercel.app/cv
 </p>
 
 ---
