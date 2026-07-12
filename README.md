@@ -69,13 +69,13 @@ I'm actively looking to collaborate on:
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,express,java,go" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,nginx,express,java,go" />
 </p>
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=js,react,ts,vue,html,css,bootstrap,tailwind" />
+  <img src="https://skillicons.dev/icons?i=js,react,ts,vue,npm,html,css,bootstrap,tailwind" />
 </p>
 
 ### Mobile
@@ -87,7 +87,7 @@ I'm actively looking to collaborate on:
 ### Tools
 
 <p>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,github,trello,slack,colab" />
+  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,github,gitlab,powershell,vercel,xamppp,trello,slack,colab" />
 </p>
 
 ---
