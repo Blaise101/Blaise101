@@ -28,27 +28,16 @@ Full-Stack Developer • Laravel & React Enthusiast • Mobile App Builder
 
 ## 🚀 About Me
 
-```yaml
+````yaml
 Name: Blaise Izerimana
 Role: Full-Stack Developer
-Focus:
-  - Laravel Development
-  - REST APIs
-  - Node.js Applications
-  - React Interfaces
-  - Mobile Apps with Flutter
-
-Currently Learning:
-  - Software Architecture
-  - Scalable Backend Systems
-  - Mobile Development Best Practices
-
-Open To:
-  - Freelance Opportunities
-  - Open Source Contributions
-  - Remote Collaborations
-```
-
+| Focus                    | Currently Learning                | Open To                            |
+| ------------------------ | --------------------------------- | ---------------------------------- |
+| Laravel Development      | Software Architecture             | Freelance Opportunities            |
+| REST APIs                | Scalable Backend Systems          | Open Source Contributions          |
+| Node.js Applications     | Mobile Development Best Practices | Remote Collaborations              |
+| React Interfaces         |                                   |                                    |
+| Mobile Apps with Flutter |                                   |                                    |
 ---
 
 ## 🤝 Let's Collaborate
@@ -95,18 +84,6 @@ I'm actively looking to collaborate on:
 ### 🐍 My Contributions Snake
 
 [![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ## 🌟 Featured Projects
-
-> Replace these with your actual projects.
-
-| Project       | Description               | Stack            |
-| ------------- | ------------------------- | ---------------- |
-| Project One   | Short project description | Laravel, Vue     |
-| Project Two   | Short project description | Flutter          |
-| Project Three | Short project description | Node.js, MongoDB |
-
---- -->
 
 ## 📈 GitHub Activity
 
@@ -171,7 +148,7 @@ while(alive){
    improve();
    repeat();
 }
-```
+````
 
 --- -->
 
