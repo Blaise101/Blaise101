@@ -55,12 +55,12 @@ Open To:
 
 I'm actively looking to collaborate on:
 
-* Laravel Projects
-* Node.js Applications
-* ReactJs & TypeScript Dashboards
-* Flutter Mobile Apps
-* API Development
-* Open Source Projects
+- Laravel Projects
+- Node.js Applications
+- ReactJs & TypeScript Dashboards
+- Flutter Mobile Apps
+- API Development
+- Open Source Projects
 
 ---
 
@@ -95,8 +95,6 @@ I'm actively looking to collaborate on:
 ### 🐍 My Contributions Snake
 
 [![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg)
-
-
 
 <!-- ## 🌟 Featured Projects
 
@@ -142,6 +140,7 @@ I'm actively looking to collaborate on:
 </p>
 
 ---
+
 <!--
 ## 🏆 GitHub Trophies
 
@@ -153,7 +152,7 @@ I'm actively looking to collaborate on:
 ---
 -->
 
-## 📚 Currently Exploring
+<!-- ## 📚 Currently Exploring
 
 * Clean Architecture
 * Design Patterns
@@ -174,7 +173,7 @@ while(alive){
 }
 ```
 
----
+--- -->
 
 ## 📫 Connect With Me
 
