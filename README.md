@@ -92,21 +92,9 @@ I'm actively looking to collaborate on:
 
 ---
 
-### 🐍 My Contributions Snake
+<!-- ### 🐍 My Contributions Snake
 
-[![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg)
-
-<!-- ## 🌟 Featured Projects
-
-> Replace these with your actual projects.
-
-| Project       | Description               | Stack            |
-| ------------- | ------------------------- | ---------------- |
-| Project One   | Short project description | Laravel, Vue     |
-| Project Two   | Short project description | Flutter          |
-| Project Three | Short project description | Node.js, MongoDB |
-
---- -->
+[![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg) -->
 
 ## 📈 GitHub Activity
 
@@ -151,29 +139,6 @@ I'm actively looking to collaborate on:
 
 ---
 -->
-
-<!-- ## 📚 Currently Exploring
-
-* Clean Architecture
-* Design Patterns
-* Microservices
-* Flutter State Management
-* DevOps Fundamentals
-
----
-
-## 💡 Fun Fact
-
-```javascript
-while(alive){
-   learn();
-   build();
-   improve();
-   repeat();
-}
-```
-
---- -->
 
 ## 📫 Connect With Me
 
