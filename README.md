@@ -98,16 +98,14 @@ I'm actively looking to collaborate on:
 
 ## 📈 GitHub Activity
 
-<p align="center">
-  <!--<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101" alt="GitHub Streak" /></a> -->
-  <!-- <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=tokyonight&hide_border=true" /> -->
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&show_icons=true&layout=compact&theme=onedark" alt="Top Languages" height=150/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="streak badge" height=150/>
 </p>
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaise101&theme=tokyo-night&hide_border=true&area=true" />
-</p>
+</p>-->
 
 ---
 
