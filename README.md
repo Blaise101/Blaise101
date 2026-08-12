@@ -96,9 +96,9 @@ I'm actively looking to collaborate on:
 
 [![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg) -->
 
-## 📈 GitHub Activity
+<!--## 📈 GitHub Activity
 
-<!--<p align="center">
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&show_icons=true&layout=compact&theme=onedark" alt="Top Languages" height=150/>
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="streak badge" height=150/>
 </p>
