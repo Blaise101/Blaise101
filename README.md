@@ -24,130 +24,15 @@ Full-Stack Developer • Laravel & React Enthusiast • Mobile App Builder
   <img src="https://komarev.com/ghpvc/?username=Blaise101&color=53b7e8" alt="Profile views" width="130" />
 </p>
 
----
-
-## 🚀 About Me
-
-```yaml
-Name: Blaise Izerimana
-Role: Full-Stack Developer
-Focus:
-  - Laravel Development
-  - REST APIs
-  - Node.js Applications
-  - React Interfaces
-  - Mobile Apps with Flutter
-
-Currently Learning:
-  - Software Architecture
-  - Scalable Backend Systems
-  - Mobile Development Best Practices
-
-Open To:
-  - Freelance Opportunities
-  - Open Source Contributions
-  - Remote Collaborations
-```
-
----
-
-## 🤝 Let's Collaborate
-
-I'm actively looking to collaborate on:
-
-- Laravel Projects
-- Node.js Applications
-- ReactJs & TypeScript Dashboards
-- Flutter Mobile Apps
-- API Development
-- Open Source Projects
-
----
-
-## 🛠 Tech Stack
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,nginx,express,java,go" />
-</p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=js,react,ts,vue,npm,html,css,bootstrap,tailwind" />
-</p>
-
-### Mobile
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter" />
-</p>
-
-### Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,postman,figma,mysql,mongodb,postgres,github,gitlab,powershell,vercel,xamppp,trello,slack,colab" />
-</p>
-
----
-
-<!-- ### 🐍 My Contributions Snake
-
-[![:github-contribution-grid-snake](https://raw.githubusercontent.com/Blaise101/Blaise101/output/github-contribution-grid-snake.svg)](https://github.com/Blaise101/Blaise101/blob/output/github-contribution-grid-snake.svg) -->
-
-<!--## 📈 GitHub Activity
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Blaise101&show_icons=true&layout=compact&theme=onedark" alt="Top Languages" height=150/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Blaise101&theme=onedark" alt="streak badge" height=150/>
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,python,nginx,express,java,go,js,react,ts,vue,npm,html,css,bootstrap,tailwind,flutter,git,postman,figma,mysql,mongodb,postgres,github,gitlab,powershell,vercel,colab" style="height: 100px," />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Blaise101&theme=tokyo-night&hide_border=true&area=true" />
-</p>-->
-
----
-
-## 📊 GitHub Statistics
-
-<p align="center">
-     <!-- src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" -->
-  <img
-     src="https://github-readme-stats.vercel.app/api?username=Blaise101&theme=gruvbox&show_icons=true&hide_border=true"
-    width="335"
-    alt="General stats badge"
-  />
+    <!-- <img  src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=Blaise101&theme=gruvbox" /> -->
   <img
     src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Blaise101&theme=gruvbox"
     width="495"
     alt="Profile details badge"
   />
-</p>
-
----
-
-<!--
-## 🏆 GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Blaise101&theme=gruvbox&row=1&column=6" alt="Blaise101 trophies"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Blaise101&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
--->
-
-## 📫 Connect With Me
-
-<p align="left">
-  🌐 Portfolio: https://blaise101portfolio.vercel.app/ <br>
-  💼 Upwork: https://www.upwork.com/freelancers/~0162195ebb76c3aaf4?mp_source=share <br>
-  📄 Resume: https://blaise101portfolio.vercel.app/cv
-</p>
-
----
-
-<p align="center">
-  <i>"Turning ideas into scalable digital solutions."</i>
 </p>
